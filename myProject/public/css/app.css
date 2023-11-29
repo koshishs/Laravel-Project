@@ -1,0 +1,36 @@
+
+body{
+    margin: 0;
+    background-color:rgb(53, 69, 90);
+}
+hr{
+    size: 20px;
+    background-color: rgb(100, 0, 0);
+}
+h1{
+    color: 212429;
+    padding: 20px;
+    text-align: center;  
+  font-size: 30px !important;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h3{
+    color: blanchedalmond;
+}
+
+.navbar{
+    background-color: rgb(34, 32, 32);
+}
+nav a{
+    float: left;
+    color: whitesmoke;
+    padding: 14px 16px;
+    text-decoration: violet;
+    font-size: 22px;
+   font-family: 'Poppins', sans-serif;
+}
+
+.btn-success btn-sm{
+    color: black;
+    background-color: black;
+}
